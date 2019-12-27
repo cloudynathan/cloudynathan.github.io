@@ -1,6 +1,7 @@
 # cloudynathan.github.io
 
 Introduction: Exploratory data analysis on e-commerce cosmetics
+
 Click here to see the report: https://cloudynathan.github.io/
 
 source:
